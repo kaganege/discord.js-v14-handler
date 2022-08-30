@@ -1,7 +1,6 @@
 <div align="center">
    <h1>Discord.js v14 Handler</h1>
    <img src="https://img.shields.io/badge/license-MIT-green?style=flat" alt="Lisans">
-   <br><br>
 </div>
 
 -  [Discord.js v14 Handler](#discordjs-v14-handler)
