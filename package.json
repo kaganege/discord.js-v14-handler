@@ -1,6 +1,6 @@
 {
-	"name": "td_development",
-	"version": "0.0.1",
+	"name": "discord.js-v14-handler",
+	"version": "1.0.0",
 	"description": "",
 	"main": "index.js",
 	"type": "module",
@@ -12,7 +12,6 @@
 	"license": "MIT",
 	"dependencies": {
 		"ascii-table": "^0.0.9",
-		"better-sqlite3": "^7.6.2",
 		"boxen": "^7.0.0",
 		"chalk": "^5.0.1",
 		"discord.js": "^14.3.0",
@@ -20,9 +19,7 @@
 		"figlet": "^1.5.2",
 		"got": "^12.3.1",
 		"lodash": "^4.17.21",
-		"node-html-parser": "^5.4.2-0",
-		"quick.db": "^9.0.6",
-		"table": "^6.8.0",
-		"terminal-image": "^2.0.0"
+		"node-html-parser": "^5.4.2",
+		"table": "^6.8.0"
 	}
 }
