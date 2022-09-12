@@ -6,7 +6,8 @@
 -  [Discord.js v14 Handler](#discordjs-v14-handler)
    -  [Installation](#installation)
    -  [Starting](#starting)
-   -  [Features](#features)
+   -  [License](#license)
+   -  [Support](#support)
 
 ## Installation
 
