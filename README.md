@@ -37,6 +37,6 @@ Refer to the [LICENSE](https://github.com/TavukDoner7528/discord.js-v14-handler/
 
 ## Support
 
-Discord: [Tavuk Döner#7528](https://discord.com/users/729651204216455229)
+Discord: [Tavuk Döner (kaganege)](https://discord.com/users/729651204216455229)
 
-[![Tavuk Döner#7528](https://discord.c99.nl/widget/theme-4/729651204216455229.png)](https://discord.com/users/729651204216455229)
+[![Tavuk Döner (kaganege)](https://discord.c99.nl/widget/theme-4/729651204216455229.png)](https://discord.com/users/729651204216455229)
